@@ -1,0 +1,446 @@
+exchange|name|fee|ticker
+bitfinex|Bitcoin|0.0004|BTC
+bitfinex|Ethereum|0.0027|ETH
+bitfinex|Eos|0.19411|EOS
+bitfinex|Litecoin|0.001|LTC
+bitfinex|Ripple|0.02|XRP
+bitfinex|Bitcoin Cash|0.0001|BCH
+bitfinex|Iota|0.5|IOTA
+bitfinex|Neo|0|NEO
+bitfinex|Ethereum Classic|0.01|ETC
+bitfinex|Monero|0.04|XMR
+bitfinex|Omise Go|0.14026|OMG
+bitfinex|Dash|0.01|DASH
+bitfinex|Zcash|0.001|ZEC
+bitfinex|Tron|33.873|TRX
+bitfinex|Bitcoin Gold|0|BTG
+bitfinex|Santiment|0.99269|SAN
+bitfinex|Eidoo|0.58215|EDO
+bitfinex|Etp|0.01|ETP
+bitfinex|0x|1.9947|ZRX
+bitfinex|Qtum|0.01|QTUM
+bitfinex|Basic Attention Token|4.8746|BAT
+bitfinex|Status|11.038|SNT
+bitfinex|Augur|0.041168|REP
+bitfinex|Qash|1.9858|QASH
+bitfinex|Golem|4.6798|GNT
+bitfinex|Aid Coin|6.0863|AID
+bitfinex|Streamr|20.773|DATA
+bitfinex|Yoyow|13.174|YYW
+bitfinex|Time New Bank|39.532|TNB
+bitfinex|Fun Fair|32.336|FUN
+bitfinex|Spank Chain|8.5769|SPK
+bitfinex|Aelf|1.8753|ELF
+bitfinex|Singular Dtv|18.622|SNG
+bitfinex|Ethfinex Nectar Token|1.6504|NEC
+bitfinex|Decentraland|16.617|MNA
+bitfinex|I Exec|1.414|RLC
+bitfinex|Aventus|1.0075|AVT
+bitfinex|Rcn|13.093|RCN
+bitfinex|Loopring|1.35|LRC
+bitfinex|Request Network|5.0094|REQ
+bitfinex|Raiden|0.67502|RDN
+bitfinex|Wax|5.7449|WAX
+bitfinex|It|9.0|CFI
+bitfinex|TetherUSD (Omni)|20|USD
+bitfinex|TetherUSD (Ethereum ERC20)|1.0372|USD
+bitfinex|TetherUSD (Ethereum ERC20)|0.84259|EUR
+bittrex|Bitcoin|0.0005|BTC
+bittrex|Ethereum|0.006|ETH
+bittrex|Ripple|1|XRP
+bittrex|Bitcoin Cash|0.001|BCH
+bittrex|Litecoin|0.01|LTC
+bittrex|Cardano|0.2|ADA
+bittrex|Stellar|0.01|XLM
+bittrex|NEO|0.025|NEO
+bittrex|Monero|0.04|XMR
+bittrex|TRON|1|TRX
+bittrex|Dash|0.002|DASH
+bittrex|Tether|25|USDT
+bittrex|NEM|4|XEM
+bittrex|Ethereum Classic|0.01|ETC
+bittrex|Qtum|0.01|QTUM
+bittrex|OmiseGO|0.35|OMG
+bittrex|Verge|0.2|XVG
+bittrex|Lisk|0.1|LSK
+bittrex|Bitcoin Gold|0.001|BTG
+bittrex|Zcash|0.005|ZEC
+bittrex|Steem|0.01|STEEM
+bittrex|DigixDAO|0.038|DGD
+bittrex|BitShares|5|BTS
+bittrex|Waves|0.001|WAVES
+bittrex|Stratis|0.2|STRAT
+bittrex|Siacoin|0.1|SC
+bittrex|Dogecoin|2|DOGE
+bittrex|Decred|0.1|DCR
+bittrex|Status|20|SNT
+bittrex|Augur|0.1|REP
+bittrex|0x|1|ZRX
+bittrex|Komodo|0.002|KMD
+bittrex|Ardor|2|ARDR
+bittrex|Loopring|1|LRC
+bittrex|PIVX|0.02|PIVX
+bittrex|Ark|0.1|ARK
+bittrex|MonaCoin|0.2|MONA
+bittrex|Basic Attention Token|10|BAT
+bittrex|DigiByte|0.2|DGB
+bittrex|Factom|0.01|FCT
+bittrex|Golem|9|GNT
+bittrex|FunFair|49|FUN
+bittrex|Syscoin|0.0002|SYS
+bittrex|ZCoin|0.02|XZC
+bittrex|Nxt|2|NXT
+bittrex|SALT|0.6|SALT
+bittrex|ReddCoin|2|RDD
+bittrex|MaidSafeCoin|2|MAID
+bittrex|Byteball Bytes|0.002|GBYTE
+bittrex|Power Ledger|5|POWR
+bittrex|Bancor|0.85|BNT
+bittrex|Enigma|1|ENG
+bittrex|Storj|3|STORJ
+bittrex|Emercoin|0.02|EMC
+bittrex|TenX|2|PAY
+bittrex|Vertcoin|0.02|VTC
+bittrex|WAX|1|WAX
+bittrex|Particl|0.1|PART
+bittrex|Nexus|0.2|NXS
+bittrex|Metal|1.35|MTL
+bittrex|Decentraland|36|MANA
+bittrex|ZenCash|0.002|ZEN
+bittrex|Civic|8|CVC
+bittrex|GameCredits|0.2|GAME
+bittrex|Gnosis|0.02|GNO
+bittrex|Monaco|0.5|MCO
+bittrex|iExec RLC|3.5|RLC
+bittrex|Blocknet|0.02|BLOCK
+bittrex|BitcoinDark|0.02|BTCD
+bittrex|Aragon|1.3|ANT
+bittrex|Ignis|2|IGNIS
+bittrex|SIRIN LABS Token|1|SRN
+bittrex|Ubiq|0.01|UBQ
+bittrex|NAV Coin|0.2|NAV
+bittrex|Groestlcoin|0.2|GRS
+bittrex|DigitalNote|0.01|XDN
+bittrex|BLOCKv|1|VEE
+bittrex|Quantum Resistant Ledger|2.5|QRL
+bittrex|ION|0.2|ION
+bittrex|AdEx|3|ADX
+bittrex|SaluS|0.002|SLS
+bittrex|Edgeless|3.5|EDG
+bittrex|Ripio Credit Network|16|RCN
+bittrex|Peercoin|0.02|PPC
+bittrex|Feathercoin|0.2|FTC
+bittrex|Einsteinium|0.2|EMC2
+bittrex|BitBay|0.2|BAY
+bittrex|Gulden|0.2|NLG
+bittrex|SingularDTV|3.5|SNGLS
+bittrex|Wings|4|WINGS
+bittrex|district0x|29|DNT
+bittrex|Viacoin|0.2|VIA
+bittrex|Counterparty|0.2|XCP
+bittrex|LBRY Credits|0.02|LBC
+bittrex|bitCNY|1.5|BITCNY
+bittrex|Burst|2|BURST
+bittrex|Unobtanium|0.0002|UNO
+bittrex|Aeon|0.1|AEON
+bittrex|Melon|0.035|MLN
+bittrex|CloakCoin|0.02|CLOAK
+bittrex|BlockMason Credit Protocol|1|BCPT
+bittrex|Voxels|0.1|VOX
+bittrex|Unikoin Gold|5|UKG
+bittrex|Steem Dollars|0.01|SBD
+bittrex|Triggers|5|TRIG
+bittrex|Capricoin|0.2|CPC
+bittrex|Nimiq|0.2|NET
+bittrex|TokenCard|0.4|TKN
+bittrex|Shift|0.01|SHIFT
+bittrex|Crown|0.02|CRW
+bittrex|Viberate|13|VIB
+bittrex|Mercury|0.1|MER
+bittrex|Safe Exchange Coin|100|SAFEX
+bittrex|DECENT|0.1|DCT
+bittrex|Synereo|5|AMP
+bittrex|FairCoin|0.02|FAIR
+bittrex|PotCoin|0.002|POT
+bittrex|Elastic|0.2|XEL
+bittrex|Humaniq|16|HMQ
+bittrex|Lunyr|0.15|LUN
+bittrex|Cofound.it|27|CFI
+bittrex|Bean Cash|0.2|BITB
+bittrex|DMarket|1|DMT
+bittrex|WhiteCoin|0.2|XWC
+bittrex|adToken|43|ADT
+bittrex|UpToken|1|UP
+bittrex|Diamond|0.002|DMD
+bittrex|BlackCoin|0.02|BLK
+bittrex|ZClassic|0.002|ZCL
+bittrex|GridCoin|0.2|GRC
+bittrex|Numeraire|0.15|NMR
+bittrex|I/O Coin|0.2|IOC
+bittrex|Blocktix|5|TIX
+bittrex|WeTrust|7|TRST
+bittrex|SIBCoin|0.2|SIB
+bittrex|FirstBlood|4.5|1ST
+bittrex|VeriCoin|0.0002|VRC
+bittrex|Matchpool|7|GUP
+bittrex|Omni|0.1|OMNI
+bittrex|RevolutionVR|0.1|RVR
+bittrex|MonetaryUnit|0.02|MUE
+bittrex|SolarCoin|0.2|SLR
+bittrex|Incent|0.1|INCNT
+bittrex|Radium|0.2|RADS
+bittrex|Xaurum|2.5|XAUR
+bittrex|Expanse|0.01|EXP
+bittrex|Universal Currency|2|UNIT
+bittrex|HempCoin|0.2|THC
+bittrex|Neumark|0.02|NEU
+bittrex|TRUE USD|1|TUSD
+bittrex|Clams|0.2|CLAM
+bittrex|LoMoCoin|0.2|LMC
+bittrex|BitSend|0.002|BSD
+bittrex|Databits|5|DTB
+bittrex|Golos|0.01|GOLOS
+bittrex|Rubycoin|0.02|RBY
+bittrex|Swarm City|1.8|SWT
+bittrex|Auroracoin|0.002|AUR
+bittrex|TransferCoin|0.02|TX
+bittrex|Energycoin|0.2|ENRG
+bittrex|Gambit|0.3|GAM
+bittrex|FlorinCoin|0.2|FLO
+bittrex|Myriad|0.2|XMY
+bittrex|NeosCoin|0.02|NEOS
+bittrex|OKCash|0.2|OK
+bittrex|Chronobank|0.2|TIME
+bittrex|Patientory|14|PTOY
+bittrex|Musicoin|0.01|MUSIC
+bittrex|Nexium|13|NXC
+bittrex|Dynamic|0.02|DYN
+bittrex|FoldingCoin|150|FLDC
+bittrex|Sequence|0.2|SEQ
+bittrex|PinkCoin|0.2|PINK
+bittrex|Syndicate|0.2|SYNX
+bittrex|Sphere|0.002|SPHR
+bittrex|Bitcrystals|5|BCY
+bittrex|Mysterium|2.5|MYST
+bittrex|Curecoin|0.0002|CURE
+bittrex|Stealthcoin|0.02|XST
+bittrex|GeoCoin|0.1|GEO
+bittrex|DopeCoin|0.002|DOPE
+bittrex|Internet of People|0.2|IOP
+bittrex|Circuits of Value|200|COVAL
+bittrex|Tokes|0.1|TKS
+bittrex|APX|0.1|APX
+bittrex|ArtByte|0.2|ABY
+bittrex|Kore|0.02|KORE
+bittrex|Neutron|0.02|NTRN
+bittrex|Breakout Stake|0.02|BRX
+bittrex|Synergy|0.002|SNRG
+bittrex|Memetic / PepeCoin|0.02|MEME
+bittrex|ExclusiveCoin|0.2|EXCL
+bittrex|Pesetacoin|0.002|PTC
+bittrex|UFO Coin|0.2|UFO
+bittrex|Qwark|0.1|QWARK
+bittrex|Sprouts|1|SPRTS
+bittrex|VeriumReserve|0.4|VRM
+bittrex|GoldCoin|0.0002|GLD
+bittrex|EuropeCoin|0.2|ERC
+bittrex|vTorrent|0.02|VTR
+bittrex|Creditbit|8|CRB
+bittrex|TrustPlus|0.02|TRUST
+bittrex|Breakout|0.02|BRK
+bittrex|CannabisCoin|0.2|CANN
+bittrex|2GIVE|0.01|2GIVE
+bittrex|SpreadCoin|0.2|SPR
+bittrex|Blitzcash|0.02|BLITZ
+bittrex|TeslaCoin|0.2|TES
+bittrex|EverGreenCoin|0.2|EGC
+bittrex|eBoost|0.1|EBST
+bittrex|AudioCoin|2|ADC
+bittrex|e-Gulden|0.2|EFL
+bittrex|Bitswift|2|SWIFT
+bittrex|Magi|0.0002|XMG
+bittrex|UnbreakableCoin|0.2|UNB
+bittrex|MazaCoin|0.2|MZC
+bittrex|Digitalcoin|0.2|DGC
+bittrex|Bytecent|0.02|BYC
+bittrex|Legends Room|4|LGD
+bittrex|Bata|1|BTA
+bittrex|Startcoin|0.02|START
+bittrex|Triangles|0.0002|TRI
+bittrex|ParkByte|0.02|PKB
+bittrex|8Bit|0.002|8BIT
+bittrex|Influxcoin|0.1|INFX
+bittrex|Sativacoin|0.2|STV
+bittrex|GoldPieces|0.2|GP
+bittrex|Rise|0.1|RISE
+bittrex|Vcash|0.002|XVC
+bittrex|Global Currency Reserve|0.02|GCR
+bittrex|Agoras Tokens|5|AGRS
+bittrex|MaxCoin|0.2|MAX
+bittrex|Orbitcoin|0.2|ORB
+bittrex|Darcrus|0.1|DAR
+bittrex|Project Decorum|5|PDC
+bittrex|MetalCoin|20|METAL
+bittrex|Trollcoin|0.001|TROLL
+bittrex|Megacoin|1|MEC
+bittrex|Bitstar|0.002|BITS
+bittrex|Datacoin|0.2|DTC
+bittrex|FuelCoin|0.02|FC2
+bittrex|UltraCoin|0.02|UTC
+bittrex|Grantcoin|20|GRT
+bittrex|Sterlingcoin|0.2|SLG
+bittrex|Sling|0.002|SLING
+bittrex|CannaCoin|0.02|CCN
+bittrex|Titcoin|0.2|TIT
+bittrex|PayCoin|0.002|XPY
+bittrex|Bitz|0.02|BITZ
+bittrex|Truckcoin|0.02|TRK
+bittrex|Blakecoin|0.2|BLC
+bittrex|AmsterdamCoin|1|AMS
+bittrex|Prime-XI|0.2|PXI
+bittrex|SecretCoin|1|SCRT
+bittrex|Swing|0.1|SWING
+bittrex|GlobalBoost-Y|0.2|BSTY
+bittrex|Franko|0.002|FRK
+bittrex|SoonCoin|0.2|SOON
+bittrex|Joincoin|0.02|J
+bittrex|WARP|0.02|WARP
+bittrex|X-Coin|0.02|XCO
+bittrex|MindCoin|1|MND
+bittrex|ARbit|0.02|ARB
+bittrex|Steps|0.2|STEPS
+bittrex|OceanChain|0.2|OC
+bittrex|Bitcoin Private|0.01|BTCP
+bittrex|Golos Gold|0.01|GBG
+bittrex|CryptCoin|0.02|CRYPT
+bittrex|Hyper|0.02|HYPER
+bittrex|Quotient|0.02|XQN
+bittrex|ClubCoin|0.02|CLUB
+binance|Bitcoin|0.0005|BTC
+binance|Ethereum|0.01|ETH
+binance|Ripple|0.25|XRP
+binance|Litecoin|0.01|LTC
+binance|EOS|0.5|EOS
+binance|Cardano|1|ADA
+binance|Stellar|0.01|XLM
+binance|NEO|0|NEO
+binance|Monero|0.04|XMR
+binance|IOTA|0.5|MIOTA
+binance|TRON|76|TRX
+binance|Dash|0.002|DASH
+binance|Tether|6.8|USDT
+binance|NEM|4|XEM
+binance|Binance Coin|0.19|BNB
+binance|Ethereum Classic|0.01|ETC
+binance|VeChain|1|VEN
+binance|Qtum|0.01|QTUM
+binance|OmiseGO|0.28|OMG
+binance|Verge|0.1|XVG
+binance|Lisk|0.1|LSK
+binance|ICON|1.1|ICX
+binance|Bitcoin Gold|0.001|BTG
+binance|Nano|0.01|NANO
+binance|Zcash|0.005|ZEC
+binance|Ontology|0.1|ONT
+binance|Bytom|5|BTM
+binance|Steem|0.01|STEEM
+binance|Populous|0.2|PPT
+binance|DigixDAO|0.02|DGD
+binance|BitShares|1|BTS
+binance|Waves|0.002|WAVES
+binance|Stratis|0.1|STRAT
+binance|Aeternity|1.6|AE
+binance|Bitcoin Diamond|1|BCD
+binance|Status|25|SNT
+binance|Zilliqa|100|ZIL
+binance|0x|4.4|ZRX
+binance|Komodo|0.002|KMD
+binance|IOStoken|77.2|IOST
+binance|Hshare|0.0001|HSR
+binance|Aion|1.2|AION
+binance|Walton|0.3|WTC
+binance|Loopring|6.3|LRC
+binance|PIVX|0.02|PIVX
+binance|Ark|0.1|ARK
+binance|Basic Attention Token|13|BAT
+binance|GXShares|0.3|GXS
+binance|Gas|0|GAS
+binance|Ethos|1.3|ETHOS
+binance|FunFair|78|FUN
+binance|Syscoin|0.001|SYS
+binance|aelf|4.4|ELF
+binance|ZCoin|0.02|XZC
+binance|Substratum|6.7|SUB
+binance|Kyber Network|2.6|KNC
+binance|Storm|76|STORM
+binance|SALT|1.2|SALT
+binance|Nucleus Vision|84.6|NCASH
+binance|Power Ledger|7.1|POWR
+binance|Bancor|1.1|BNT
+binance|Enigma|1.7|ENG
+binance|ChainLink|7.9|LINK
+binance|Request Network|15.6|REQ
+binance|Storj|2.8|STORJ
+binance|Neblio|0.01|NEBL
+binance|Cindicator|37|CND
+binance|Iconomi|2.6|ICN
+binance|Nuls|1.3|NULS
+binance|Metal|0.7|MTL
+binance|Decentraland|34|MANA
+binance|Enjin Coin|25|ENJ
+binance|POA Network|0.01|POA
+binance|Po.et|88|POE
+binance|Monaco|0.46|MCO
+binance|iExec RLC|2.8|RLC
+binance|Genesis Vision|0.13|GVT
+binance|Time New Bank|85|TNB
+binance|Raiden NetworkToken|1.9|RDN
+binance|Quantstamp|23|QSP
+binance|NAV Coin|0.2|NAV
+binance|Groestlcoin|0.2|GRS
+binance|Eidoo|1.5|EDO
+binance|BlazeCoin|8.4|BLZ
+binance|Gifto|15|GTO
+binance|ETHLend|58|LEND
+binance|CyberMiles|33|CMT
+binance|AdEx|4|ADX
+binance|Ripio Credit Network|28|RCN
+binance|Ambrosus|8.9|AMB
+binance|Simple Token|18|OST
+binance|SONM|24|SNM
+binance|Red Pulse|1|RPX
+binance|AirSwap|9.7|AST
+binance|SingularDTV|42|SNGLS
+binance|WePower|27.5|WPR
+binance|Wings|6.3|WINGS
+binance|AppCoins|7.5|APPC
+binance|VIBE|14.8|VIBE
+binance|Modum|2|MOD
+binance|district0x|46|DNT
+binance|Bread|5.7|BRD
+binance|Viacoin|0.01|VIA
+binance|QLINK|1|QLC
+binance|Tierion|34|TNT
+binance|INS Ecosystem|2.4|INS
+binance|WaBi|3.7|WABI
+binance|Etherparty|43|FUEL
+binance|BlockMason Credit Protocol|6.5|BCPT
+binance|Triggers|19|TRIG
+binance|CoinDash|70|CDT
+binance|Viberate|19|VIB
+binance|YOYOW|33|YOYOW
+binance|Lunyr|0.29|LUN
+binance|Everex|2.4|EVX
+binance|Monetha|30|MTH
+binance|Moeda Loyalty Points|3.4|MDA
+binance|Agrello|15.4|DLT
+binance|OAX|5.3|OAX
+binance|Aeron|2.5|ARN
+binance|Centra|18.4|CTR
+binance|BitConnect|0.001|BCC
+binance|Wancoin|0.1|WAN
+binance|ChatCoin|32.4|CHAT
+binance|BitcoinX [Futures]|1|BCX
+binance|Super Bitcoin|0.0005|SBTC
+binance|LLToken|67.8|LLT
+binance|Happy Creator Coin|0.0005|HCC
